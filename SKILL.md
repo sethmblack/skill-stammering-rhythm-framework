@@ -4,7 +4,7 @@ description: Insert strategic pauses, false starts, and stammering patterns to b
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.5045
+  version: 1.0.5046
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
